@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# my options
+.temp_files
+temp_files/
+.idea/
+.pytest_cache/
